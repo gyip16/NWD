@@ -73,4 +73,20 @@
     <string name="pref_ringtone_silent">Silent</string>
 
     <string name="pref_title_vibrate">Vibrate</string>
+
+    <string-array name="graph_type">
+        <item>Bar-Horizontal</item>
+        <item>Pie</item>
+        <item>Bar-Vertical</item>
+        <item>Line</item>
+        <item>Scatter Graph</item>
+    </string-array>
+
+    <string-array name="opendata">
+        <item>Demographics</item>
+        <item>sewer</item>
+        <item>Business License</item>
+        <item>Waterfountain</item>
+        <item>Roads</item>
+    </string-array>
 </resources>
