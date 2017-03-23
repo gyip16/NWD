@@ -18,6 +18,7 @@ import com.github.mikephil.charting.components.Legend;
 import com.github.mikephil.charting.data.PieData;
 import com.github.mikephil.charting.data.PieDataSet;
 import com.github.mikephil.charting.data.PieEntry;
+import com.github.mikephil.charting.utils.ColorTemplate;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -48,14 +49,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
         PieChart pchart = (PieChart) findViewById(R.id.pChart);
 
-        Description desc = new Description();
-        desc.setTextSize(20f);
-        desc.setText("What shall we do with the drunken sailor?");
-
-
-        pchart.setHoleRadius(45f);
-        pchart.setDrawEntryLabels(false);
-        pchart.setDescription(desc);
+        String desc = "What shall we do with the drunken sailor?";
 
         List<PieEntry> entries = new ArrayList<>();
 
@@ -64,24 +58,13 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         entries.add(new PieEntry(50.0f, "Stick him in a scupper with a horsepipe on him"));
         entries.add(new PieEntry(10.0f, "Put him in the bed with the captain's daughter"));
 
-        PieDataSet set = new PieDataSet(entries, "");
+        PieChartHandler pch = new PieChartHandler(pchart, entries, desc, 2);
 
-        set.setColors(new int[] {Color.RED, Color.BLUE, Color.YELLOW, Color.GREEN});
-        set.setSliceSpace(15f);
-        set.setSelectionShift(20f);
+        pch.drawChart();
 
-        PieData data = new PieData(set);
-        pchart.setData(data);
 
-        Legend legend = pchart.getLegend();
 
-        legend.setForm(Legend.LegendForm.SQUARE);
-        legend.setOrientation(Legend.LegendOrientation.VERTICAL);
-        legend.setDrawInside(true);
-        legend.setHorizontalAlignment(Legend.LegendHorizontalAlignment.CENTER);
-        legend.setVerticalAlignment(Legend.LegendVerticalAlignment.TOP);
 
-        pchart.invalidate();
     }
 
     public void download(View v)
