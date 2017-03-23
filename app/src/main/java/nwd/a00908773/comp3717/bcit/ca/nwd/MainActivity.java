@@ -1,6 +1,7 @@
 package nwd.a00908773.comp3717.bcit.ca.nwd;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -10,6 +11,16 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
+
+import com.github.mikephil.charting.charts.PieChart;
+import com.github.mikephil.charting.components.Description;
+import com.github.mikephil.charting.components.Legend;
+import com.github.mikephil.charting.data.PieData;
+import com.github.mikephil.charting.data.PieDataSet;
+import com.github.mikephil.charting.data.PieEntry;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
 
@@ -34,6 +45,43 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         spinner.setOnItemSelectedListener(this);
         spinner2.setAdapter(adapter2);
         spinner2.setOnItemSelectedListener(this);
+
+        PieChart pchart = (PieChart) findViewById(R.id.pChart);
+
+        Description desc = new Description();
+        desc.setTextSize(20f);
+        desc.setText("What shall we do with the drunken sailor?");
+
+
+        pchart.setHoleRadius(45f);
+        pchart.setDrawEntryLabels(false);
+        pchart.setDescription(desc);
+
+        List<PieEntry> entries = new ArrayList<>();
+
+        entries.add(new PieEntry(15.0f, "Shave his belly with a rusty razor"));
+        entries.add(new PieEntry(25.0f, "Put him in a long boat til he's sober"));
+        entries.add(new PieEntry(50.0f, "Stick him in a scupper with a horsepipe on him"));
+        entries.add(new PieEntry(10.0f, "Put him in the bed with the captain's daughter"));
+
+        PieDataSet set = new PieDataSet(entries, "");
+
+        set.setColors(new int[] {Color.RED, Color.BLUE, Color.YELLOW, Color.GREEN});
+        set.setSliceSpace(15f);
+        set.setSelectionShift(20f);
+
+        PieData data = new PieData(set);
+        pchart.setData(data);
+
+        Legend legend = pchart.getLegend();
+
+        legend.setForm(Legend.LegendForm.SQUARE);
+        legend.setOrientation(Legend.LegendOrientation.VERTICAL);
+        legend.setDrawInside(true);
+        legend.setHorizontalAlignment(Legend.LegendHorizontalAlignment.CENTER);
+        legend.setVerticalAlignment(Legend.LegendVerticalAlignment.TOP);
+
+        pchart.invalidate();
     }
 
     public void download(View v)
