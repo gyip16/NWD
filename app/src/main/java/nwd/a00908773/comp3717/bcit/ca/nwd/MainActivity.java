@@ -6,24 +6,28 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
+import android.widget.RelativeLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.github.mikephil.charting.charts.PieChart;
-import com.github.mikephil.charting.components.Description;
-import com.github.mikephil.charting.components.Legend;
-import com.github.mikephil.charting.data.PieData;
-import com.github.mikephil.charting.data.PieDataSet;
-import com.github.mikephil.charting.data.PieEntry;
-import com.github.mikephil.charting.utils.ColorTemplate;
+import com.github.mikephil.charting.charts.*;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import static nwd.a00908773.comp3717.bcit.ca.nwd.R.id.Chart;
+
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
+
+    LineChart lChart = (LineChart) findViewById(R.id.lChart);
+    BarChart bChart = (BarChart) findViewById(R.id.bChart);
+    HorizontalBarChart hbChart = (HorizontalBarChart) findViewById(R.id.hbChart);
+    PieChart pchart = (PieChart) findViewById(R.id.pChart);
+    RadarChart rchart = (RadarChart) findViewById(R.id.rChart);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,25 +50,16 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         spinner.setOnItemSelectedListener(this);
         spinner2.setAdapter(adapter2);
         spinner2.setOnItemSelectedListener(this);
+    }
 
-        PieChart pchart = (PieChart) findViewById(R.id.pChart);
+    public void changeView(View v){
+        this.lChart.setVisibility(View.GONE);
+        this.bChart.setVisibility(View.GONE);
+        this.hbChart.setVisibility(View.GONE);
+        this.pchart.setVisibility(View.GONE);
+        this.rchart.setVisibility(View.GONE);
 
-        String desc = "What shall we do with the drunken sailor?";
-
-        List<PieEntry> entries = new ArrayList<>();
-
-        entries.add(new PieEntry(15.0f, "Shave his belly with a rusty razor"));
-        entries.add(new PieEntry(25.0f, "Put him in a long boat til he's sober"));
-        entries.add(new PieEntry(50.0f, "Stick him in a scupper with a horsepipe on him"));
-        entries.add(new PieEntry(10.0f, "Put him in the bed with the captain's daughter"));
-
-        PieChartHandler pch = new PieChartHandler(pchart, entries, desc, 2);
-
-        pch.drawChart();
-
-
-
-
+        v.setVisibility(View.VISIBLE);
     }
 
     public void download(View v)
