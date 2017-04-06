@@ -83,61 +83,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <com.github.mikephil.charting.charts.LineChart
-        android:id="@+id/lChart"
-        android:visibility="gone"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        />
-
-    <com.github.mikephil.charting.charts.BarChart
-        android:id="@+id/bChart"
-        android:visibility="gone"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        />
-
-    <com.github.mikephil.charting.charts.HorizontalBarChart
-        android:id="@+id/hbChart"
-        android:visibility="gone"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        />
-
-    <com.github.mikephil.charting.charts.PieChart
-        android:id="@+id/pChart"
-        android:visibility="gone"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        />
-
-    <com.github.mikephil.charting.charts.RadarChart
-        android:id="@+id/rChart"
-        android:visibility="gone"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        />
-
     <TextView
         android:text="graph"
         android:layout_width="wrap_content"
@@ -155,5 +100,62 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:id="@+id/openDataset" />
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/bChart"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/toggleButton"
+        android:layout_below="@+id/graphtext" />
+
+    <com.github.mikephil.charting.charts.HorizontalBarChart
+        android:id="@+id/hbChart"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/toggleButton"
+        android:layout_below="@+id/graphtext" />
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/pChart"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/toggleButton"
+        android:layout_below="@+id/graphtext" />
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/lChart"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/toggleButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="28dp"
+        android:layout_below="@+id/graphtext" />
+
+    <com.github.mikephil.charting.charts.RadarChart
+        android:id="@+id/rChart"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/graphtext"
+        android:layout_above="@+id/toggleButton" />
 
 </RelativeLayout>

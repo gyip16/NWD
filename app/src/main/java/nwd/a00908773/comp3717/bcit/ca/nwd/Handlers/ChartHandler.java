@@ -12,17 +12,17 @@ import com.github.mikephil.charting.data.ChartData;
  * Created by Pkao on 2017-03-29.
  */
 
-public abstract class ChartHandler {
+public class ChartHandler {
     protected Chart chart;
 
-    protected ChartHandler(Chart chart){
+    public ChartHandler(Chart chart){
         this.chart = chart;
     }
 
     /**
      * draws the graph
      */
-    protected void draw() {
+    public void draw() {
         chart.invalidate();
     }
 
@@ -30,7 +30,7 @@ public abstract class ChartHandler {
      * Sets a new data object for the chart. The data object contains all values and information needed for displaying.
      * @param data ChartData object
      */
-    protected void setData(ChartData data){
+    public void setData(ChartData data){
         chart.setData(data);
     }
 
@@ -38,14 +38,14 @@ public abstract class ChartHandler {
      * Returns the ChartData object that has been set for the chart.
      * @return
      */
-    protected ChartData getData() {
+    public ChartData getData() {
         return chart.getData();
     }
 
     /**
      * Clears the chart from all data (sets it to null) and refreshes it (by calling invalidate()).
      */
-    protected void clearData() {
+    public void clearData() {
         chart.clear();
     }
 
@@ -53,7 +53,7 @@ public abstract class ChartHandler {
      * Sets a new Description object for the chart.
      * @param desc Description object
      */
-    protected void setDescription(Description desc) {
+    public void setDescription(Description desc) {
         chart.setDescription(desc);
     }
 
@@ -73,7 +73,7 @@ public abstract class ChartHandler {
      * @param path path under SD card
      * @param context context of where to show message
      */
-    protected void saveChartAsPNG(String title, String path, Context context) {
+    public void saveChartAsPNG(String title, String path, Context context) {
         if(!(chart.saveToPath(title, path))) {
             Toast.makeText(context, "Could not save file", Toast.LENGTH_SHORT).show();
         }

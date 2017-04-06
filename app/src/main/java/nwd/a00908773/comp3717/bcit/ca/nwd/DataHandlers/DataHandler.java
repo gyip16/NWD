@@ -2,8 +2,6 @@ package nwd.a00908773.comp3717.bcit.ca.nwd.DataHandlers;
 
 import com.github.mikephil.charting.data.ChartData;
 import com.github.mikephil.charting.data.DataSet;
-import com.github.mikephil.charting.utils.ColorTemplate;
-
 
 /**
  * Created by Pkao on 2017-03-29.
