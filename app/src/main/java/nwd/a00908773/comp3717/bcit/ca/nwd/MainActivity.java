@@ -1,6 +1,8 @@
 package nwd.a00908773.comp3717.bcit.ca.nwd;
 
 import android.content.Intent;
+import android.content.res.Resources;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -10,6 +12,9 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
+
+import java.io.InputStream;
+import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
 
@@ -42,6 +47,15 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         Intent dlIntent = new Intent(getApplicationContext(),DownloadActivity.class);
         startActivity(dlIntent);
 
+    }
+
+    public ArrayList<Csvhold> getFile(String filename) {
+        int rawId = getResources().getIdentifier(filename, "raw", getPackageName());
+        ArrayList<Csvhold> listhold = new ArrayList<Csvhold>();
+        InputStream inputStream = getResources().openRawResource(rawId);
+        CSVFile csvFile = new CSVFile(inputStream);
+        listhold = csvFile.read();
+        return listhold;
     }
 
     public void setting(View v) {
