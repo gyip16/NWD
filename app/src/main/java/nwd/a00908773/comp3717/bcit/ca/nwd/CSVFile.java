@@ -17,7 +17,7 @@ public class CSVFile {
         this.inputStream = inputStream;
     }
 
-    public List read(){
+    public ArrayList<Csvhold> read(){
         ArrayList<Csvhold> resultList = new ArrayList<Csvhold>();
         BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
         try {
@@ -30,9 +30,10 @@ public class CSVFile {
                     for(int i = 0; i < row.length; i++){
                         hold = new Csvhold(row[i]);
                         resultList.add(hold);
-                        count = 1;
+
 
                     }
+                    count = 1;
 
                 }else {
                     for(int j =0; j < row.length; j++) {

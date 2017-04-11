@@ -14,6 +14,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 
 import java.io.InputStream;
+import java.lang.reflect.Field;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
@@ -62,6 +63,15 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
         Intent settingsIntent = new Intent(getApplicationContext(),SettingsActivity.class);
         startActivity(settingsIntent);
+    }
+
+    public ArrayList<String> listRaw(){
+        ArrayList<String> getRaw = new ArrayList<String>();
+        Field[] fields=R.raw.class.getFields();
+        for(int count=0; count < fields.length; count++){
+             getRaw.add(fields[count].getName());
+        }
+        return getRaw;
     }
 
     public void onItemSelected(AdapterView<?> parent, View view,
