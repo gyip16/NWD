@@ -96,7 +96,7 @@ public class MainActivity extends FragmentActivity {
         switch(view.getId()){
             case R.id.line:
                 changeView(lChart);
-                chartBuilder = new ChartBuilder(lChart, getFile(selectedFile));
+                chartBuilder = new ChartBuilder(lChart, getFile(selectedFile), selectedFile);
                 chartBuilder.buildChart();
                 break;
             case R.id.bar:

@@ -4,6 +4,8 @@ import android.util.Log;
 
 import com.github.mikephil.charting.charts.Chart;
 import com.github.mikephil.charting.charts.LineChart;
+import com.github.mikephil.charting.components.Description;
+import com.github.mikephil.charting.components.Legend;
 import com.github.mikephil.charting.data.DataSet;
 import com.github.mikephil.charting.data.Entry;
 import com.github.mikephil.charting.data.LineData;
@@ -25,19 +27,30 @@ import nwd.a00908773.comp3717.bcit.ca.nwd.SetHandlers.SetHandler;
 
 public class ChartBuilder {
     Chart chart;
+    Legend legend;
     ArrayList<Csvhold> table;
+    String name;
 
-    public ChartBuilder(Chart chart, ArrayList<Csvhold> arr){
+    public ChartBuilder(Chart chart, ArrayList<Csvhold> arr, String name){
         this.chart = chart;
         table = arr;
+        this.name = name;
+        legend = new Legend();
     }
 
     public void reset(){
         chart.clear();
     }
 
+    public void changeDescripion(){
+        Description desc = new Description();
+        desc.setText(name);
+        chart.setDescription(desc);
+    }
+
     public void buildChart() {
         reset();
+        changeDescripion();
         if(chart instanceof LineChart){
             buildLineChart() ;
         }
@@ -67,7 +80,8 @@ public class ChartBuilder {
             }
             int theme = (int)(Math.random() * 6);
             LineDataSet lds = new LineDataSet(tempList, csv.getName());
-            SetHandler lsh = new LineSetHandler(lds);
+            LineSetHandler lsh = new LineSetHandler(lds);
+            lds.setDrawCircles(false);
             lsh.setTheme(theme);
             ld.addDataSet(lds);
         }
