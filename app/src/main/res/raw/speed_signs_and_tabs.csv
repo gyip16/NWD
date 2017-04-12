@@ -1,0 +1,192 @@
+Cat,SubCat,Comments,Sign_Text,Arrow_Direction,Sign_ID,Street,Street_Address,X_Street,Corner,Distance_Along_Street,Distance_From_Curb,Sign_Code,Grade,Traffic_Direction,Structure,Situation,Condition,Speed,Date_,Confidence,TYPE_,Sign_Definition,X,Y
+Speed Signs and Tabs,Speed Signs,,50 km/h,,30151,,,,,,,RB-01,Engineering,NB,Lamp Standard,Side,Good,50,20020610,High,Reg_Road_Use,MAXIMUM,-122.892510900195,49.2328808397947
+Speed Signs and Tabs,Speed Signs,,50 km/h,,30166,,,,,,,RB-01,Engineering,NB,Lamp Standard,Side,Good,50,20020610,Medium,Reg_Road_Use,MAXIMUM,-122.892408399336,49.2363679703614
+Speed Signs and Tabs,Speed Signs,,30 km/h Ends,,30450,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.912974400349,49.2006771701398
+Speed Signs and Tabs,Speed Signs,,30 km/h,,35556,,,,,,,RB-01,Engineering,SB,Lamp Standard,Side,Good,30,20020611,High,Reg_Road_Use,MAXIMUM,-122.892879800186,49.2311392404409
+Speed Signs and Tabs,Speed Signs,,30 km/h,,35557,,,,,,,RB-01,Engineering,SB,Lamp Standard,Side,Good,30,20020611,High,Reg_Road_Use,MAXIMUM,-122.89291950023,49.2296915102695
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,35632,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020527,High,Tabs,Maximum Speed Tab,-122.926316700476,49.2097721503228
+Speed Signs and Tabs,Speed Signs,,50 km/h,,35741,TWELFTH ST,944,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,50,20020524,High,Reg_Road_Use,MAXIMUM,-122.937740100135,49.2131836602683
+Speed Signs and Tabs,Speed Signs,,30 km/h,,36158,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,30,20020517,High,Reg_Road_Use,MAXIMUM,-122.935747699976,49.1875140900047
+Speed Signs and Tabs,Speed Signs,,30 km/h,,36220,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Dirty,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.946700999793,49.1824618201215
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36244,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020516,High,Tabs,Maximum Speed Tab,-122.944467200303,49.183639960091
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36249,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020517,High,Tabs,Maximum Speed Tab,-122.943833600276,49.1839101801274
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36253,,,,,,,T-MS,Engineering,WB,Lamp Standard,Side,Good,30,20020517,High,Tabs,Maximum Speed Tab,-122.9430368004,49.1844633695997
+Speed Signs and Tabs,Speed Signs,,20 km/h,,36258,,,,,,,RB-01,Engineering,EB,Metal Post,Side,Good,20,20020517,High,Reg_Road_Use,MAXIMUM,-122.936581399531,49.1898017903848
+Speed Signs and Tabs,Speed Signs,,20 km/h,,36259,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,20,20020517,High,Reg_Road_Use,MAXIMUM,-122.937001600171,49.189661499959
+Speed Signs and Tabs,Speed Signs,,30 km/h,,36271,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,30,20020517,High,Reg_Road_Use,MAXIMUM,-122.940224399686,49.1883669295567
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36283,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,50,20020517,High,Reg_Road_Use,MAXIMUM,-122.947520999677,49.1903349500546
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36341,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020522,High,Tabs,Maximum Speed Tab,-122.956079999352,49.2017620895957
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36343,,,,,,,T-MS,Engineering,EB,Billboard,Side,Good,30,20020522,High,Tabs,Maximum Speed Tab,-122.955812799403,49.2020427400134
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36345,,,,,,,T-MS,Engineering,WB,Billboard,Side,Good,30,20020522,High,Tabs,Maximum Speed Tab,-122.953968099541,49.2031313197715
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36347,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020522,High,Tabs,Maximum Speed Tab,-122.953883500184,49.2031757201022
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36353,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020522,High,Tabs,Maximum Speed Tab,-122.956906400293,49.2023700001384
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36355,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020522,High,Tabs,Maximum Speed Tab,-122.955553000229,49.2033797403174
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36357,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020522,High,Tabs,Maximum Speed Tab,-122.95431260065,49.2040067602255
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36363,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,50,20020522,High,Reg_Road_Use,MAXIMUM,-122.951849999656,49.2054369997004
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36394,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.942778300628,49.2063637398578
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36396,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.941150499351,49.2068499001829
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36400,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.944525900421,49.2054011900446
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36402,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.944387999595,49.2048536502364
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36404,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,50,20020523,High,Reg_Road_Use,MAXIMUM,-122.949347799971,49.2024356802283
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36437,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020517,High,Tabs,Maximum Speed Tab,-122.941572199547,49.1845803598018
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36438,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020517,High,Tabs,Maximum Speed Tab,-122.941672799385,49.1848535996587
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36455,,,,,,,RB-01,Engineering,EB,Metal Post,Side,Good,50,20020516,High,Reg_Road_Use,MAXIMUM,-122.954635200282,49.1828472202165
+Speed Signs and Tabs,Speed Signs,,80 km/h,,36467,,,,,,,RB-01,Engineering,WB,Sign Bridge,Median,Good,80,20020516,High,Reg_Road_Use,MAXIMUM,-122.95190059968,49.1853786099365
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36497,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020528,High,Tabs,Maximum Speed Tab,-122.909779299993,49.2252821597018
+Speed Signs and Tabs,Speed Signs,,20 km/h,,36507,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,20,20020606,High,Reg_Road_Use,MAXIMUM,-122.909030000276,49.2246683800775
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36509,CUMBERLAND ST,823,,,,,T-MS,Engineering,NB,Lamp Standard,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.909488700493,49.2252975697428
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36510,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.91112180014,49.2268763597211
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36526,,,,,,,RB-01,Engineering,NB,Wooden Post,Side,Good,50,20020606,High,Reg_Road_Use,MAXIMUM,-122.909042699685,49.2202529701632
+Speed Signs and Tabs,Speed Signs,,20 km/h,,36541,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,20,20020606,High,Reg_Road_Use,MAXIMUM,-122.906348299443,49.2208543801521
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36571,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.942729399958,49.2042206997765
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36573,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.941087099683,49.2050469598471
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36575,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.940364799878,49.2059786897818
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36577,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.940217600595,49.205494250336
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36578,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Dirty,30,20020523,High,Tabs,Maximum Speed Tab,-122.942931200214,49.2033028600789
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36581,,,,,,,T-MS,Engineering,NB,Utility Pole,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.941601400539,49.2047939899373
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36588,,,,,,,RB-01,Engineering,WB,Wooden Post,Side,Good,50,20020523,Medium,Reg_Road_Use,MAXIMUM,-122.942652900397,49.2012712595907
+Speed Signs and Tabs,Speed Tabs,736 Tenth St,30 km/h,,36616,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020524,High,Tabs,Maximum Speed Tab,-122.930446700171,49.2123076696132
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36619,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020524,High,Tabs,Maximum Speed Tab,-122.927917499849,49.2139793496965
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36621,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020524,High,Tabs,Maximum Speed Tab,-122.930005099936,49.2119434104426
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36629,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020524,High,Tabs,Maximum Speed Tab,-122.931283200619,49.2106516100583
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36634,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020527,High,Tabs,Maximum Speed Tab,-122.930532700218,49.2097502596341
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36640,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020527,High,Tabs,Maximum Speed Tab,-122.928480399621,49.2107333399366
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36642,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020527,High,Tabs,Maximum Speed Tab,-122.928025399737,49.210708830309
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36650,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Dirty,30,20020527,High,Tabs,Maximum Speed Tab,-122.93439409998,49.2050037800809
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36651,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020527,Medium,Tabs,Maximum Speed Tab,-122.927249600275,49.2092675895936
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36652,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020527,High,Tabs,Maximum Speed Tab,-122.926884299763,49.2097915900124
+Speed Signs and Tabs,Speed Tabs,Tenth St & Sixth Ave,30 km/h,,36654,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Graffitii,30,20020527,High,Tabs,Maximum Speed Tab,-122.926354299406,49.2093671703928
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36655,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020527,High,Tabs,Maximum Speed Tab,-122.924416500306,49.2110763097526
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36704,,,,,,,RB-01,Engineering,EB,Wooden Post,Side,Damaged,50,20020528,High,Reg_Road_Use,MAXIMUM,-122.930517799321,49.217244830006
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36717,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020528,High,Tabs,Maximum Speed Tab,-122.927607699385,49.2137880700662
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36719,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,50,20020528,High,Reg_Road_Use,MAXIMUM,-122.926470400385,49.2178732496544
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36721,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020528,High,Tabs,Maximum Speed Tab,-122.918934300387,49.2210499997897
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36723,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020528,High,Tabs,Maximum Speed Tab,-122.917988900077,49.2218038000259
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36725,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020528,High,Tabs,Maximum Speed Tab,-122.916900900128,49.2215710704152
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36747,,,,,,,RB-01,Engineering,NB,Lamp Standard,Side,Good,50,20020528,High,Reg_Road_Use,MAXIMUM,-122.914263599854,49.2239236898653
+Speed Signs and Tabs,Speed Tabs,SOUTH OF TENTH AVE EAST,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36764,CUMBERLAND ST,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020528,High,Tabs,Maximum Speed Tab,-122.911940999941,49.2269597498116
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36771,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Damaged,30,20020606,High,Tabs,Maximum Speed Tab,-122.925928099755,49.2129158497965
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36783,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.913395999468,49.2184656797636
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36789,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.915178700356,49.2172396204325
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36791,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.915421099849,49.2168068797282
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36797,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020606,Medium,Tabs,Maximum Speed Tab,-122.912169699954,49.2196519898266
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36804,,,,,,,T-MS,Engineering,SB,Lamp Standard,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.912460200242,49.2205280198396
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36806,,,,,,,T-MS,Engineering,NB,Lamp Standard,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.911174500493,49.2200133596777
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36816,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.911682999784,49.2179261998825
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36818,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.91196199938,49.2173281603587
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36820,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020606,Medium,Tabs,Maximum Speed Tab,-122.911766999936,49.2174245201093
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36829,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.913577400293,49.2163093597479
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36832,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020606,High,Tabs,Maximum Speed Tab,-122.914320200413,49.2162783495665
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36842,,,,,,,T-MS,Engineering,NB,Lamp Standard,Side,Good,30,20020607,High,Tabs,Maximum Speed Tab,-122.924028800038,49.211396640235
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36849,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Stickers,30,20020607,High,Tabs,Maximum Speed Tab,-122.910762800283,49.2166331096182
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36854,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Graffitii,30,20020607,Medium,Tabs,Maximum Speed Tab,-122.910384700537,49.2160636603965
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36879,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020607,High,Tabs,Maximum Speed Tab,-122.908771299791,49.2150593103083
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36886,,,,,,,T-MS,Diamond,EB,Metal Post,Side,Good,30,20020610,High,Tabs,Maximum Speed Tab,-122.902548799846,49.232341920043
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36897,,,,,,,T-MS,Engineering,EB,Lamp Standard,Side,Good,30,20020610,High,Tabs,Maximum Speed Tab,-122.89787139993,49.2348472897695
+Speed Signs and Tabs,Speed Tabs,,20 km/h,,36905,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,20,20020610,High,Tabs,Maximum Speed Tab,-122.892399899865,49.2371093004185
+Speed Signs and Tabs,Speed Tabs,,20 km/h,,36907,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,20,20020610,High,Tabs,Maximum Speed Tab,-122.891944900069,49.2370486201676
+Speed Signs and Tabs,Speed Signs,,50 km/h,,36908,,,,,,,RB-01,Engineering,SB,Lamp Standard,Side,Good,50,20020610,High,Reg_Road_Use,MAXIMUM,-122.892768099931,49.2349155395813
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36934,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020610,High,Tabs,Maximum Speed Tab,-122.901331900032,49.2274508703119
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36940,SHERBROOKE ST,346,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020611,High,Tabs,Maximum Speed Tab,-122.8959965005,49.2278509002985
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36946,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020611,Medium,Tabs,Maximum Speed Tab,-122.898720300242,49.2274887802814
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36951,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020611,High,Tabs,Maximum Speed Tab,-122.898097600235,49.2266195798991
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36954,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020611,Medium,Tabs,Maximum Speed Tab,-122.898518700169,49.2258656104372
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36955,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020611,High,Tabs,Maximum Speed Tab,-122.89763930051,49.2257056903153
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36956,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020611,High,Tabs,Maximum Speed Tab,-122.898507300115,49.2252061197386
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,36968,SHERBROOKE ST,,COLUMBIA ST E,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020611,High,Tabs,Maximum Speed Tab,-122.893125700078,49.2280079000172
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,36973,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020611,Medium,Tabs,Maximum Speed Tab,-122.901155100399,49.2259470295535
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,37001,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020612,High,Tabs,Maximum Speed Tab,-122.891281999946,49.2332102995714
+Speed Signs and Tabs,Speed Signs,,10 km/h,,37028,,,,,,,RB-01,Wood,NB,Metal Post,Side,Foundation Damaged,10,20020612,High,Reg_Road_Use,MAXIMUM,-122.889936400423,49.2256668798048
+Speed Signs and Tabs,Speed Signs,,50 km/h,,37039,,,,,,,RB-01,Engineering,SB,Lamp Standard,Side,Good,50,20020612,High,Reg_Road_Use,MAXIMUM,-122.883791900163,49.2306566001544
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,37085,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020612,High,Tabs,Maximum Speed Tab,-122.890005700611,49.2324339496398
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,37095,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020612,High,Tabs,Maximum Speed Tab,-122.889494200453,49.2332899401182
+Speed Signs and Tabs,Speed Signs,,15 km/h,,37099,,,,,,,RB-02,Engineering,SB,Lamp Standard,Side,Good,15,20020612,High,Reg_Road_Use,TRUCKS MAXIMUM,-122.89254149995,49.2225679800805
+Speed Signs and Tabs,Speed Signs,,10 km/h,,37132,,,,,,,RB-01,Engineering,SB,Wooden Post,Side,Good,10,20020620,Medium,Reg_Road_Use,MAXIMUM,-122.892363199924,49.2203706604299
+Speed Signs and Tabs,Speed Signs,,10 km/h,,37135,,,,,,,RB-01,Engineering,EB,Wooden Post,Side,Good,10,20020620,High,Reg_Road_Use,MAXIMUM,-122.877887199754,49.2292880901159
+Speed Signs and Tabs,Speed Signs,,10 km/h,,37136,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,10,20020620,High,Reg_Road_Use,MAXIMUM,-122.876905000548,49.2290313403073
+Speed Signs and Tabs,Speed Signs,,10 km/h On Bridge,,37139,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,10,20020620,Medium,Reg_Road_Use,MAXIMUM,-122.878979000406,49.2295652001593
+Speed Signs and Tabs,Speed Signs,,30 km/h,,37140,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,30,20020620,High,Reg_Road_Use,MAXIMUM,-122.88065299953,49.2280992803638
+Speed Signs and Tabs,Speed Signs,,30 km/h,,37155,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,30,20020620,High,Reg_Road_Use,MAXIMUM,-122.881851700492,49.2323068098149
+Speed Signs and Tabs,Speed Signs,,60 km/h,,37167,,,,,,,RB-01,Engineering,NB,Wooden Post,Side,Good,60,20020626,High,Reg_Road_Use,MAXIMUM,-122.928010599766,49.2033945502367
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,37188,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020626,High,Tabs,Maximum Speed Tab,-122.906772000507,49.2134569197813
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,37194,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020626,High,Tabs,Maximum Speed Tab,-122.906500599548,49.2129646196822
+Speed Signs and Tabs,Speed Signs,,20 km/h,,37209,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Damaged,20,20020626,High,Reg_Road_Use,MAXIMUM,-122.908988899886,49.2174617100219
+Speed Signs and Tabs,Speed Signs,,20 km/h,,37210,,,,,,,RB-01,Engineering,NB,Lamp Standard,Side,Dirty,20,20020626,High,Reg_Road_Use,MAXIMUM,-122.910409900661,49.2176468804413
+Speed Signs and Tabs,Speed Signs,,50 km/h,,37211,,,,,,,RB-01,Engineering,NB,Wooden Post,Side,Good,50,20020626,High,Reg_Road_Use,MAXIMUM,-122.906906600045,49.2185370497264
+Speed Signs and Tabs,Speed Signs,,60 km/h,,37212,,,,,,,RB-01,Engineering,SB,Wooden Post,Side,Good,60,20020626,High,Reg_Road_Use,MAXIMUM,-122.907132399861,49.218380289999
+Speed Signs and Tabs,Speed Signs,,50 km/h,,37216,,,,,,,RB-01,Engineering,NB,Wooden Post,Median,Damaged,50,20020626,High,Reg_Road_Use,MAXIMUM,-122.905741499561,49.2176143102988
+Speed Signs and Tabs,Speed Signs,,30 km/h,,37221,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,30,20020626,High,Reg_Road_Use,MAXIMUM,-122.903578200373,49.2168635500404
+Speed Signs and Tabs,Speed Signs,,30 km/h,,37222,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,30,20020626,High,Reg_Road_Use,MAXIMUM,-122.903847800382,49.216955100236
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,37228,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020626,High,Tabs,Maximum Speed Tab,-122.905537000674,49.2121803103402
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,37229,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020626,High,Tabs,Maximum Speed Tab,-122.905245299793,49.2122597498635
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,37249,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020626,High,Tabs,Maximum Speed Tab,-122.916030400652,49.2054813796946
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,37253,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020626,High,Tabs,Maximum Speed Tab,-122.916675899755,49.2051022699348
+Speed Signs and Tabs,Speed Tabs,Eighth St & Milton,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,37255,,,,,,,T-MS,Engineering,SB,Metal Post,Side,Good,30,20020626,High,Tabs,Maximum Speed Tab,-122.916979199431,49.2054239802275
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,41113,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020626,High,Tabs,Maximum Speed Tab,-122.91841900017,49.2039112703059
+Speed Signs and Tabs,Speed Signs,,20 km/h,,41127,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Dirty,20,20020715,High,Reg_Road_Use,MAXIMUM,-122.910139599981,49.2070997800797
+Speed Signs and Tabs,Speed Signs,,20 km/h,,41128,,,,,,,RB-01,Engineering,WB,Lamp Standard,Side,Good,20,20020715,High,Reg_Road_Use,MAXIMUM,-122.910137899491,49.2071896399417
+Speed Signs and Tabs,Speed Signs,,20 km/h,,41131,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,20,20020715,High,Reg_Road_Use,MAXIMUM,-122.909162599888,49.2075441299756
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,41165,,,,,,,T-MS,Engineering,EB,Wooden Post,Side,Good,30,20020715,High,Tabs,Maximum Speed Tab,-122.901709399709,49.2104038801924
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41181,,,,,,,RB-01,Engineering,WB,Lamp Standard,Side,Good,30,20020715,High,Reg_Road_Use,MAXIMUM,-122.898306499624,49.2106739998838
+Speed Signs and Tabs,Speed Signs,,30 km/h Ends,,41198,,,,,,,RB-01,Engineering,NB,Lamp Standard,Side,Good,30,20020715,Medium,Reg_Road_Use,MAXIMUM,-122.897465100111,49.211078250018
+Speed Signs and Tabs,Speed Signs,,20 km/h,,41204,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Dirty,20,20020715,High,Reg_Road_Use,MAXIMUM,-122.897582400453,49.211439639921
+Speed Signs and Tabs,Speed Signs,,50 km/h,,41218,,,,,,,RB-01,Engineering,EB,Metal Post,Side,Good,50,20020715,High,Reg_Road_Use,MAXIMUM,-122.893956499465,49.2157318096748
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,41257,,,,,,,T-MS,Engineering,NB,Metal Post,Side,Good,30,20020716,High,Tabs,Maximum Speed Tab,-122.914703699683,49.2039954801066
+Speed Signs and Tabs,Speed Signs,,50 km/h,,41263,,,,,,,RB-01,Engineering,WB,Lamp Standard,Side,Good,50,20020716,High,Reg_Road_Use,MAXIMUM,-122.915122299471,49.2035542803162
+Speed Signs and Tabs,Speed Signs,,25 km/h,,41334,,,,,,,RB-01,Engineering,SB,Lamp Standard,Side,Good,25,20020722,High,Reg_Road_Use,MAXIMUM,-122.914741,49.2007296700599
+Speed Signs and Tabs,Speed Signs,,10 km/h,,41346,,,,,,,RB-01,Engineering,NB,Lamp Standard,Side,Good,10,20020722,High,Reg_Road_Use,MAXIMUM,-122.913132400231,49.2008416899443
+Speed Signs and Tabs,Speed Signs,,10 km/h,,41347,,,,,,,RB-01,Engineering,NB,Lamp Standard,Side,Good,10,20020722,High,Reg_Road_Use,MAXIMUM,-122.91288020017,49.2009797200252
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41358,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.912281699342,49.2006548901024
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41361,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.912063500404,49.2004660503834
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41366,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.91034830066,49.2016656596438
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41388,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.906596399692,49.2036994403206
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41396,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.903394400597,49.2054322298652
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41398,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.902261999685,49.2060094399711
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41405,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.901637800177,49.2067460295674
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41409,,,,,,,RB-01,Engineering,WB,Lamp Standard,Side,Good,30,20020722,High,Reg_Road_Use,MAXIMUM,-122.899709800112,49.2083789495819
+Speed Signs and Tabs,Speed Signs,,50 km/h,,41440,,,,,,,RB-01,Engineering,EB,Lamp Standard,Side,Good,50,20020724,High,Reg_Road_Use,MAXIMUM,-122.946541500018,49.1995129202912
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41523,,,,,,,RB-01,Engineering,EB,Pillar,Side,Good,30,20020724,High,Reg_Road_Use,MAXIMUM,-122.909587199928,49.2012938302425
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41538,,,,,,,RB-01,Diamond,WB,Pillar,Median,Good,30,20020724,Medium,Reg_Road_Use,MAXIMUM,-122.906899999792,49.2028337996638
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41545,,,,,,,RB-01,Diamond,WB,Pillar,Median,Good,30,20020724,High,Reg_Road_Use,MAXIMUM,-122.905272399817,49.2038909199353
+Speed Signs and Tabs,Speed Signs,,50 km/h,,41548,,,,,,,RB-01,Engineering,EB,Metal Post,Side,Good,50,20020724,High,Reg_Road_Use,MAXIMUM,-122.903117100675,49.2049253500936
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41549,,,,,,,RB-01,Engineering,WB,Lamp Standard,Side,Good,30,20020724,High,Reg_Road_Use,MAXIMUM,-122.903277899756,49.2050568197955
+Speed Signs and Tabs,Speed Signs,,30 km/h,,41550,,,,,,,RB-05,Engineering,WB,Lamp Standard,Side,Good,30,20020724,High,Reg_Road_Use,Ahead MAXIMUM,-122.902091500634,49.2057202902055
+Speed Signs and Tabs,Speed Signs,,60 km/h,,41558,,,,,,,RB-01,Engineering,SB,Lamp Standard,Side,Good,60,20020724,High,Reg_Road_Use,MAXIMUM,-122.897655300454,49.208704039975
+Speed Signs and Tabs,Speed Signs,,50 km/h,,46339,,,,,,,RB-01,Engineering,WB,Wooden Post,Side,Damaged,50,20020516,High,Reg_Road_Use,MAXIMUM,-122.951742000129,49.1858309996917
+Speed Signs and Tabs,Speed Tabs,,,,46387,QUEENS AVE,a-529,,,,46,T-MS,Engineering,EB,Wooden Post,Side,Good,,20030326,,Tabs,Maximum Speed Tab,-122.895106299518,49.2279897900212
+Speed Signs and Tabs,Speed Tabs,,,,46389,QUEENS AVE,,FOURTH ST,SE,7,46,T-MS,Engineering,EB,Metal Post,Side,Good,,20030326,,Tabs,Maximum Speed Tab,-122.909998170656,49.208542498713
+Speed Signs and Tabs,Speed Tabs,,,,46391,QUEENS AVE,,THIRD ST,NW,7,46,T-MS,Engineering,WB,Metal Post,Side,Good,,20030326,,Tabs,Maximum Speed Tab,-122.90885214152,49.2092709229545
+Speed Signs and Tabs,Speed Tabs,,,,46393,QUEENS AVE,401,THIRD ST,NW,7,46,T-MS,Engineering,WB,Metal Post,Side,Good,,20030326,,Tabs,Maximum Speed Tab,-122.908862197805,49.2092630393212
+Speed Signs and Tabs,Speed Signs,,50 km/h,,47650,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,50,20020516,High,Reg_Road_Use,MAXIMUM,-122.947543600489,49.1860475198509
+Speed Signs and Tabs,Speed Signs,,50 km/h,,47656,,,,,,,RB-01,Engineering,EB,Metal Post,Side,Dirty,50,20020517,High,Reg_Road_Use,MAXIMUM,-122.945371399403,49.1866951297413
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47657,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Damaged,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.956881700462,49.1815747502372
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47663,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Graffitii,30,20020517,High,Reg_Road_Use,MAXIMUM,-122.939010899357,49.1888802599242
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47668,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.954829400241,49.1798950595791
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47669,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.953263999932,49.1803832602907
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47670,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Dirty,30,20020517,High,Reg_Road_Use,MAXIMUM,-122.940548899527,49.1835262102029
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47675,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.944555100408,49.1842360903948
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47678,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,30,20020516,Medium,Reg_Road_Use,MAXIMUM,-122.9544997999,49.1824823496166
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47687,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.945392900468,49.1814216895556
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47691,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.955282100334,49.1820620496651
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47692,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.95267299978,49.1810038002038
+Speed Signs and Tabs,Speed Signs,,50 km/h,,47693,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,50,20020517,High,Reg_Road_Use,MAXIMUM,-122.947487399834,49.18685963993
+Speed Signs and Tabs,Speed Signs,,30 km/h,,47696,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,30,20020517,High,Reg_Road_Use,MAXIMUM,-122.938246400413,49.1865792296054
+Speed Signs and Tabs,Speed Signs,,50 km/h,,48188,,,,,,,RB-01,Engineering,EB,Metal Post,Side,Good,50,20020528,High,Reg_Road_Use,MAXIMUM,-122.913320500301,49.2215304801161
+Speed Signs and Tabs,Speed Signs,,30 km/h,,48624,,,,,,,RB-01,Engineering,NB,Metal Post,Side,Good,30,20020612,High,Reg_Road_Use,MAXIMUM,-122.892714099461,49.2260486703774
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,48705,,,,,,,T-MS,Engineering,WB,Metal Post,Side,Good,30,20020527,High,Tabs,Maximum Speed Tab,-122.932166299974,49.2045390996124
+Speed Signs and Tabs,Speed Signs,,30 km/h,,48931,,,,,,,RB-01,Engineering,EB,Metal Post,Side,Good,30,20020606,Medium,Reg_Road_Use,MAXIMUM,-122.924059499637,49.2121430802589
+Speed Signs and Tabs,Speed Signs,,30 km/h Ends,,49118,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,30,20020611,High,Reg_Road_Use,MAXIMUM,-122.893039199867,49.2250009397557
+Speed Signs and Tabs,Speed Signs,,30 km/h,,49723,,,,,,,RB-01,Engineering,SB,Metal Post,Side,Good,30,20020517,High,Reg_Road_Use,MAXIMUM,-122.941858599795,49.1845930303314
+Speed Signs and Tabs,Speed Signs,,30 km/h,,49928,,,,,,,RB-01,Engineering,SB,Lamp Standard,Side,Good,30,20020516,High,Reg_Road_Use,MAXIMUM,-122.948878100572,49.1847004096336
+Speed Signs and Tabs,Speed Signs,,30 km/h,,49989,,,,,,,RB-01,Engineering,NB,Lamp Standard,Side,Good,30,20020612,High,Reg_Road_Use,MAXIMUM,-122.892606800094,49.2299647199374
+Speed Signs and Tabs,Speed Signs,,50 km/h,,82040,,,,,,,RB-01,Engineering,SB,Lamp Standard,Side,Good,50,20020715,High,Reg_Road_Use,MAXIMUM,-122.893261599429,49.2194900399415
+Speed Signs and Tabs,Speed Signs,,50 km/h,,82274,,,,,,,RB-01,Engineering,WB,Metal Post,Side,Good,50,20020715,High,Reg_Road_Use,MAXIMUM,-122.901280200624,49.2109793295728
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,82575,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020523,High,Tabs,Maximum Speed Tab,-122.943478200512,49.2040726804023
+Speed Signs and Tabs,Speed Tabs,,30 km/h,,82902,,,,,,,T-MS,Engineering,EB,Metal Post,Side,Good,30,20020524,Medium,Tabs,Maximum Speed Tab,-122.930251800224,49.2124812303518
+Speed Signs and Tabs,Speed Tabs,,,,82911,EIGHTH ST,,EIGHTH AVE,SW,20,46,T-MS,Engineering,SB,Metal Post,Side,Good,,20070425,,Tabs,Maximum Speed Tab,-122.927481204029,49.2137601431237
+Speed Signs and Tabs,Speed Signs,50kmh sign,,,83320,BOYD ST,,HOWES ST,,,,RB-01,Hi Intensity,EB,Lamp Standard,,Good,50,20170412,,Reg_Road_Use,MAXIMUM,-122.9478403908,49.1902536709093
+Speed Signs and Tabs,Speed Signs,,,,83322,BOYD ST,,,,,,RB-01,Hi Intensity,EB,Metal Post,Median,Good,50,20170412,,Reg_Road_Use,MAXIMUM,-122.95638036448,49.1838416875611
+Speed Signs and Tabs,Speed Tabs,,,,83406,SOUTH DYKE RD,,DOCKSIDE COURT,,,,T-MS,Engineering,WB,Metal Post,,Good,30,20121101,,Tabs,Maximum Speed Tab,-122.955214561396,49.1772830698065
+Speed Signs and Tabs,Speed Tabs,,,,83602,,,,,,,T-MS,Hi Intensity,SB,,,Good,30,20141217,,Tabs,Maximum Speed Tab,-122.907979781559,49.2086698504763
+Speed Signs and Tabs,Speed Tabs,,,,83604,THIRD AVE,,ROYAL AVE,,,,T-MS,Hi Intensity,NB,,,Good,30,20171214,,Tabs,Maximum Speed Tab,-122.907080402826,49.2080967303668
+Speed Signs and Tabs,Speed Tabs,,30 km/h 8AM-5PM MON-FRI SCHOOL DAYS,,84317,,,,,,,T-MS,Engineering,EB,Lamp Standard,Side,Good,30,20020528,High,Tabs,Maximum Speed Tab,-122.913552999831,49.22543507021

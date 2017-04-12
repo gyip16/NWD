@@ -1,0 +1,85 @@
+StrName,StrNum,OBJECTID,Name,Category,Neighbourhood,Zoning,Zone_Category,Owner,Surveyed,Site_Area,Relationship,SHAPE_Length,SHAPE_Area
+THIRD AVE,51,1,Queens Park,City Park,Glenbrooke South,RS-1,Single Detached,City of New Westminster,Y,307767.34375,P,2632.49806930192,302928.408212712
+SIXTH ST,1,2,Westminster Pier Park,City Park,Downtown,CD-27,Commercial,City of New Westminster,Y,38438.628906,P,1318.16514366641,38191.3792177531
+EIGHTH ST,600,3,Moody Park,Community Park,Kelvin,P-1,Institutional,City of New Westminster,Y,96270.679688,P,1275.16622762582,96412.1555852985
+E COLUMBIA ST,351,4,Sapperton Park,Community Park,Sapperton,RS-2,Single Detached,City of New Westminster,Y,20164.419922,P,600.596267204084,20094.1323110318
+SEVENTH AVE,1900,5,Grimston Park,Community Park,Westend,NR-1,Single Detached,City of New Westminster,Y,26506.910156,P,796.839498090078,25931.6758180696
+E COLUMBIA ST,60,6,Sapperton Landing Park,Regional Park,Glenbrooke South,RS-1,Single Detached,City of New Westminster,Y,35183.590332,P,2451.31140356569,61822.3985768597
+JAMIESON CRT,78,7,Glenbrook Ravine,Community Park,Glenbrooke South,P-1,Institutional,City of New Westminster,Y,54158.851563,P,1350.86705234551,54232.6402879698
+SIXTH AVE,830,8,Mercer Park,Community Park,Kelvin,P-2,Institutional,City of New Westminster,Y,24571.929688,P,647.353076644394,24530.6155720399
+MCBRIDE BLVD,,9,Terry Hughes,Community Park,Glenbrooke North,P-1,Institutional,City of New Westminster,N,20604.943915,P,673.254703348488,20604.9439146886
+ROYAL AVE,511,10,City Hall / Friendship Gardens,Community Park,Uptown,C-2,Commercial,City of New Westminster,Y,34332.691406,P,784.127691460718,34339.7590939903
+TENTH ST,10,11,Waterfront Esplanade,Community Park,North Arm North,RM-6,Apartment (High Rise),City of New Westminster,Y,5292.779785,P,772.576327412492,4205.95843017397
+TENTH ST,10,12,Waterfront Esplanade,Community Park,Downtown,RM-6,Apartment (High Rise),City of New Westminster,Y,26399.979858,P,1776.02910031589,25832.2011228424
+EWEN AVE,838,13,Ryall Park/Queensborough Community Centre,Community Park,Queensborough,P-1,Institutional,City of New Westminster,Y,87371.591797,P,1781.38178579199,76418.3784532551
+JAMIESON CRT,76,14,Glenbrook Community Centre,Community Park,Glenbrooke South,P-1,Institutional,Glenbrook Park Amenities Centre Ltd,Y,3651.370117,P,273.444748661405,3366.67346865916
+E COLUMBIA ST,660,15,Hume Park,Community Park,Sapperton,RS-1,SINGLE DETACHED,City of New Westminster,Y,111167.132813,P,1771.62079846902,107911.39615788
+EWEN AVE,510,16,Old School House Park,Neighbourhood Park,Queensborough,P-10,Institutional,City of New Westminster,Y,12500.009766,P,469.106787307399,12496.7292254429
+SALTER ST,160,17,Port Royal Riverfront Walk (Dyke Trail),Neighbourhood Park,North Arm South,P-1,Institutional,City of New Westminster,Y,6440,P,1087.44907143159,6675.27673713885
+BOUNDARY RD,,18,Thompson's Landing Park,Neighbourhood Park,Queensborough,P-1,Institutional,City of New Westminster,Y,9969.980469,P,532.598553505302,10075.4377238568
+EWEN AVE,703,19,Sukh Sagar Park,Neighbourhood Park,Queensborough,P-10,Institutional,City of New Westminster,Y,892.23999,P,130.716097657924,897.283246884042
+NINTH AVE,2138,20,Connaught Heights Park,Neighbourhood Park,Connaught Heights,NR-1,Single Detached,City of New Westminster,Y,6346.859863,P,335.450856256879,6353.64115600319
+STEWARDSON WAY,1609,21,Lookout Park,Neighbourhood Park,Brow of the Hill,RT-1,Duplex,City of New Westminster,Y,3132.22998,P,329.176165451635,2977.53248546463
+STAR CRES,,22,Port Royal Riverfront Walk (Dyke Trail),Neighbourhood Park,North Arm South,RMW-3,Apartment (High Rise),City of New Westminster,Y,3740,P,634.201854659869,3873.03401385819
+EIGHTH ST,105,23,Toronto Place Park,Neighbourhood Park,Uptown,RS-2,Single Detached,City of New Westminster,Y,2023.430054,P,180.881667811586,2019.33870250191
+MCBRIDE BLVD,940,24,Dunwood Place Park,Neighbourhood Park,Glenbrooke North,RS-2,Single Detached,City of New Westminster,Y,1336.130005,P,183.764444764772,1363.65741701834
+SINCLAIR AVE,114,25,Sinclair Park,Neighbourhood Park,Glenbrooke North,RS-1,Single Detached,City of New Westminster,Y,1295.060059,P,144.814208925741,1294.50693448383
+OLIVER ST,315,26,Sullivan Park,Neighbourhood Park,Queens Park,RS-1,SINGLE DETACHED,City of New Westminster,Y,3347.850098,P,231.559025578782,3343.57504099811
+ROYAL AVE,301,27,Tipperary Park,Neighbourhood Park,Queens Park,RS-1,Single Detached,City of New Westminster,Y,20619.089844,P,582.520561084205,20580.1361240798
+FIRST ST,40,28,Albert Crescent Park,Neighbourhood Park,Downtown,RS-1,Single Detached,City of New Westminster,Y,18209.269531,P,589.577190803921,17893.3234393881
+AGNES ST,205,29,Saint Mary's Park,Neighbourhood Park,Downtown,P-2,Institutional,City of New Westminster,Y,2461.840088,P,198.459532617131,2461.30447128709
+SANGSTER PL,827,30,Sangster Place Triangle,Neighbourhood Park,Victory Heights,RS-1,Single Detached,City of New Westminster,Y,1058.540039,P,203.602282565102,1575.43131901734
+E TENTH AVE,200,31,Westburnco Reservoir Sports Courts,Neighbourhood Park,Victory Heights,RS-1,Single Detached,Greater Vancouver Water District,N,25280.961041,P,671.079667261219,25280.9610414618
+MOTT CRES,88A,32,Mott Crescent Triangle,Neighbourhood Park,Victory Heights,RS-1,Single Detached,City of New Westminster,Y,2187.48999,P,239.933430952799,2188.26637944413
+YORK ST,808,33,Jackson Crescent Triangle,Neighbourhood Park,Victory Heights,RS-1,Single Detached,City of New Westminster,Y,1294.97998,P,169.551484098251,1257.68221646337
+CHILLIWACK ST,927,34,Victory Heights Park,Neighbourhood Park,Victory Heights,RS-1,Single Detached,City of New Westminster,Y,1578.23999,P,193.462328439519,1601.92152599168
+E COLUMBIA ST,505,35,Gateway Park (Sapperton Triangle),Neighbourhood Park,Sapperton,RS-1,Single Detached,City of New Westminster,Y,4010.439941,P,310.731180071228,4085.90554202829
+E COLUMBIA ST,409,36,Knox Plaza,Neighbourhood Park,Sapperton,C-3(C-2A),Commercial,City of New Westminster,Y,802.400024,P,119.274236924326,794.87544998938
+QUAYSIDE DR,1260,37,Quayside Park,Neighbourhood Park,Downtown,RM-6,Apartment (High Rise),City of New Westminster,N,787.228453,C,154.61227643551,787.228452632534
+COLUMBIA ST,796,38,Hyack Square,Neighbourhood Park,Downtown,C-8,Commercial,City of New Westminster,Y,1214.060059,P,140.75016739591,1212.93370936645
+,,39,Clinton Place Park,Neighbourhood Park,Queens Park,,,City of New Westminster,N,3618.046811,P,450.49547251277,3618.0468110144
+,,41,Begbie Square,Neighbourhood Park,Downtown,,,City of New Westminster,N,1819.346397,P,221.032958073829,1819.34639686192
+HOLLY AVE,250,42,Redboat Park,Neighbourhood Park,North Arm South,P-1,Institutional,City of New Westminster,Y,1932.099976,P,167.400314438692,1685.00438526914
+E COLUMBIA ST,9,43,The Great Lawn,Neighbourhood Park,Glenbrooke South,P-1,Institutional,City of New Westminster,Y,24199.939453,P,851.470060051458,24183.0843064668
+E ROYAL AVE,25,44,Victoria Hill Park,Neighbourhood Park,Glenbrooke South,P-1,Institutional,Onni Development (Victoria Hill) Corp,Y,6850.02002,P,363.931740653528,6843.67494526116
+WINTHROP ST,,45,Winthrop Triangle,Neighbourhood Park,Sapperton,,,City of New Westminster,N,294.748985,P,68.4290694897736,294.748985254016
+THIRTEENTH ST,,46,Stewardson Thirteenth St Triangle,Neighbourhood Park,North Arm North,M-1,Industrial,City of New Westminster,Y,1052.959961,P,159.082065419195,970.3861583541
+SALTER ST,215,47,Port Royal Park,Neighbourhood Park,North Arm South,P-1,Institutional,City of New Westminster,Y,13669.94043,P,848.378381784439,13670.0779713908
+STAR CRES,86,48,Community Gardens,Neighbourhood Park,North Arm South,P-1,Institutional,City of New Westminster,Y,4729.970215,P,493.900782616005,4754.56172336395
+LONDON ST,2035,49,Connaught Village Green,Neighbourhood Park,Connaught Heights,NR-1,Single Detached,City of New Westminster,Y,1113.809998,P,177.120741514744,1120.8838780368
+SIXTEENTH ST,521,50,Stewardson Sixteenth St Triangle,Neighbourhood Park,Brow of the Hill,RS-1,Single Detached,City of New Westminster,Y,158.490005,P,79.6809422448803,158.415575997264
+QUAYSIDE DR,1400,51,Muni Evers Park (future site),Neighbourhood Park,North Arm North,RMW-2A_P-1,Mixed,City of New Westminster,Y,38330.03125,P,912.168373057498,38318.6002493802
+COLUMBIA & ROYAL,,52,Eleventh Street Triangle,Neighbourhood Park,Downtown,C-4,Commercial,City of New Westminster,Y,814.299988,P,137.740348274945,813.91566250258
+MCINNES ST,125,54,Simcoe Park,Neighbourhood Park,Brow of the Hill,P-1,Institutional,City of New Westminster,Y,2339.110107,P,196.298746652882,2336.78385601475
+SHARPE ST,505,55,Riverside Adventure Park,Neighbourhood Park,Brow of the Hill,RS-1/RS-2/RT-1,Single Detached/Duplex,City of New Westminster,N,7384.677105,P,380.027393274239,7384.67710547297
+ , ,56,Poplar Island,Regional Park,North Arm North,AG-1,Agricultural,Crown Provincial,Y,134517.46875,P,1831.75550471745,123543.98951244
+E COLUMBIA ST,660,88,Hume Park,Community Park,Brunette Creek,RS-1,Single Detached,City of New Westminster,Y,17189.939453,P,1515.63048421245,17099.190242497
+MCINNES ST,125,108,Simcoe Park,Neighbourhood Park,Brow of the Hill,P-2,Institutional,City of New Westminster,Y,12990.450195,P,491.618945591524,12974.1966780381
+SALTER ST,224,111,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,Y,1554.64001464,P,175.887590683197,1546.04987115488
+EWEN AVE,180,133,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,Y,187.69999694,P,111.456526491299,187.687626012463
+HOLLY AVE,,134,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,Y,150.03999328,P,69.9999891513803,149.999091315558
+FURNESS ST,,135,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,Y,150.03999328,P,70.0000197373996,150.00060424588
+FURNESS ST,,136,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,Y,150.03999328,P,69.9998510750125,149.998074320178
+FURNESS ST,,137,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,Y,120.02999877,P,68.0236270461048,120.343261585758
+JENSEN ST,,138,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,Y,150.03999328,P,70.0000966361619,150.001085931111
+BROOKES ST,,139,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,Y,150.03999328,P,70.000403369283,150.0011809749
+BOYNE ST,230A,143,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,605.08001708,P,110.107051609286,607.530858515843
+BOYNE ST,233,144,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,605.08001708,P,110.105671640625,607.513760516951
+PEMBINA ST,234,145,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,605.08001708,P,110.10567163934,607.513760501027
+PEMBINA ST,229,146,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,519.97998046,P,100.545895854497,522.098327022193
+CAMPBELL ST,233,147,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,605.08001708,P,110.10567163934,607.513760501027
+WOOD ST,234,148,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,544.5,P,107.051002091456,546.760882033955
+WOOD ST,231,149,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,605.08001708,P,110.102911644952,607.509597012358
+PEMBINA ST,336,153,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,362.97000122,P,97.8889760070288,364.500386487363
+BOYNE ST,332,154,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,604.79998779,P,109.799175018517,605.16726700132
+BOYNE ST,329,155,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,605.08001708,P,110.105501760504,607.509986014464
+WOOD ST,,156,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,604.79998779,P,110.105194538166,607.514214999218
+FENTON ST,341,163,,Pedestrian Paths,Queensborough,RQ-1,SINGLE DETACHED,City of New Westminster,Y,681.90997314,P,220.55524780885,984.627610494673
+SALTER ST,,279,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,N,3879.834752,P,290.298838043656,3879.83475205099
+SALTER ST,,280,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,N,4089.567478,P,333.082049732749,4089.56747754816
+E EIGHTH AVE,,284,Sunset Park,Neighbourhood Park,Sapperton,,,City of New Westminster,N,271.653936,P,80.0488490158951,271.653936046692
+E EIGHTH AVE,,285,Sunset Park,Neighbourhood Park,Sapperton,,,City of New Westminster,N,417.658215,P,100.060783169326,417.658215067299
+E COLUMBIA ST,,286,,Parklet,Sapperton,,,City of New Westminster,N,21.090996,P,24.2407062274453,21.0909964265641
+SALTER ST,,299,,Pedestrian Paths,North Arm South,P-1,INSTITUTIONAL,City of New Westminster,N,12323.180608,P,1402.65462570714,12322.5471094933
+EWEN AVE,830,302,Ryall Park/Queensborough Community Centre,Community Park,Queensborough,C-1,Commercial,City of New Westminster,Y,1453.930054,P,156.68353455557,1459.90801999132
+EWEN AVE,900,303,Ryall Park/Queensborough Community Centre,Community Park,Queensborough,P-1,Institutional,City of New Westminster,Y,2197.159912,P,242.201647013961,2206.16648197104

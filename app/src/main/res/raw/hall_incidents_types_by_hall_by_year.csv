@@ -1,0 +1,15 @@
+Fire Hall # 3 - Queensborough,,,,,,
+INCIDENT TYPE,2011,2012,2013,2014,2015,2016
+Alarm Activated/No Fire,57,35,48,41,73,45
+Explosion,1,0,0,0,0,0
+Fire,44,35,52,26,46,33
+Haz-Mat,10,7,6,9,8,6
+Medical,214,199,231,253,260,293
+Motor Vehicle Incident,23,34,59,58,59,64
+Public Hazard,5,5,9,8,4,4
+Public Service,21,27,20,27,38,24
+Response -Cancelled,5,2,10,13,19,22
+Response - Unfounded,14,9,17,20,17,27
+Specialized Transportation,0,0,0,0,1,0
+Tech Rescue,0,1,0,1,1,1
+Total,394,354,452,456,526,519

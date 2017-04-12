@@ -1,0 +1,13 @@
+StrName,StrNum,OBJECTID,Name,Category,Neighbourhood,Zoning,Zone_Category,Owner,Surveyed,Site_Area,Relationship,SHAPE_Length,SHAPE_Area
+RICHMOND ST,100,71,Fraser/Church of England Lawn Section,Cemetery,Sapperton,P-1,Institutional,City of New Westminster,Y,5059.040039,P,301.041028624656,5054.44814409708
+RICHMOND ST,100,72,Fraser/Church of England,Cemetery,Sapperton,P-1,Institutional,City of New Westminster,Y,20396.960938,P,603.54848791737,20253.9773140582
+RICHMOND ST,115,73,St. Peters Catholic,Cemetery,Victory Heights,RS-1,Single Detached,Roman Catholic Archibishop of Vancouver,Y,18709.189453,P,587.49942289828,18446.0724148984
+RICHMOND ST,100,74,Fraser/Oddfellows,Cemetery,Sapperton,P-1,Institutional,City of New Westminster,Y,15147.650391,P,601.875903041063,15081.3467197258
+RICHMOND ST,100,75,Fraser/Masonic,Cemetery,Sapperton,P-1,Institutional,City of New Westminster,Y,5059.040039,P,301.042078011378,5054.46984749984
+MCBRIDE ST,,76,Woodlands Memorial Garden,Cemetery,Glenbrooke South,P-3,Institutional,BC Buildings Corp,Y,10299.969727,P,483.584574057951,10260.3934375156
+EIGHTH ST,935,77,NWSS Memorial Grounds,Cemetery,Kelvin,P-2,Institutional,New Westminster School District #40,Y,22966.099609,P,754.804673850019,22816.388648112
+MARINE DR,2345,78,Schara Tzedeck Cemetery,Cemetery,Connaught Heights,P-1,Institutional,Congregation ScharaTzedeck,Y,58880.828125,P,1131.87505026522,58846.8885394646
+RICHMOND ST,101,79,Old Fraser,Cemetery,Victory Heights,P-1,Institutional,City of New Westminster,Y,18200.080078,P,580.635948038262,17883.4546939657
+RICHMOND ST,100,80,Fraser/Church of England Lawn Section,Cemetery,Sapperton,P-1,Institutional,City of New Westminster,Y,4921.974868,P,296.199472043319,4918.11943777161
+RICHMOND ST,100,81,Fraser/Oddfellows,Cemetery,Sapperton,P-1,Institutional,City of New Westminster,Y,4047.815171,P,301.201230891538,4044.64447798906
+JAMIESON CRT,78,277,BC Penitentiary Cemetery,Cemetery,Glenbrooke South,P-1,Institutional,City of New Westminster,N,1193.89617,C,182.230077059853,1193.89616954202
