@@ -1,4 +1,4 @@
-package nwd.a00908773.comp3717.bcit.ca.nwd.SetHandlers;
+package nwd.a00908773.comp3717.bcit.ca.nwd.CSVhandler;
 
 import java.util.ArrayList;
 
@@ -9,12 +9,13 @@ import java.util.ArrayList;
 public class Csvhold {
     String CsName;
     ArrayList<String> Data;
+
     public Csvhold(String name){
         CsName = name;
         Data = new ArrayList<String>();
 
     }
-    public void setData(String data) {
+    public void addData(String data) {
         Data.add(data);
     }
     public ArrayList<String> getData(){

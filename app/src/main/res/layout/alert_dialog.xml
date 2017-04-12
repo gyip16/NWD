@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        app:srcCompat="@drawable/chartchoices"
+        android:id="@+id/imageView2" />
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:stretchColumns="*"
+        android:layout_weight="1.04"
+        android:layout_marginLeft="34dp"
+        android:layout_marginStart="34dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TableRow
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1"
+            android:onClick="selectChart"
+            android:clickable="true">
+
+
+            <TextView
+                android:text="Line Chart"
+                android:id="@+id/lcharts"
+                android:layout_height="50dp"
+                android:layout_weight="0"/>
+
+            <ImageView
+                app:srcCompat="@drawable/line_chart"
+                android:id="@+id/imageView4"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:layout_weight="1"
+                android:layout_height="40dp"
+                android:layout_width="40dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/bar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1"
+            android:onClick="selectChart"
+            android:clickable="true">
+
+
+            <TextView
+                android:text="Bar Chart"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="0"
+                android:id="@+id/bcharts" />
+
+            <ImageView
+                app:srcCompat="@drawable/bar_chart"
+                android:id="@+id/imageView5"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:layout_weight="1"
+                android:layout_height="40dp"/>
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/hbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1"
+            android:onClick="selectChart"
+            android:clickable="true">
+
+
+            <TextView
+                android:text="Horizontal Bar Chart"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="0"
+                android:id="@+id/hbcharts" />
+
+            <ImageView
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:layout_weight="1"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/bar_chart_1"
+                android:id="@+id/imageView6" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/radar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1"
+            android:onClick="selectChart"
+            android:clickable="true">
+
+
+            <TextView
+                android:text="Radar Chart"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="0"
+                android:id="@+id/rcharts" />
+
+            <ImageView
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:layout_weight="1"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/analytics"
+                android:id="@+id/imageView7"
+                />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/pie"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1"
+            android:onClick="selectChart"
+            android:clickable="true">
+
+
+            <TextView
+                android:text="Pie Chart"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="0"
+                android:id="@+id/pcharts" />
+
+            <ImageView
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:layout_weight="1"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/pie_chart"
+                android:id="@+id/imageView8" />
+
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

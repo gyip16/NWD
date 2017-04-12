@@ -19,6 +19,8 @@ public class ChartHandler {
         this.chart = chart;
     }
 
+    public Chart getChart(){return chart;}
+
     /**
      * draws the graph
      */
