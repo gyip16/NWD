@@ -1,0 +1,17 @@
+StrName,StrNum,OBJECTID,Name,Category,Neighbourhood,Zoning,Zone_Category,Owner,Surveyed,Site_Area,Relationship,SHAPE_Length,SHAPE_Area
+,,89,Basran Avenue Boulevard,Street Feature,Queensborough,,,City of New Westminster,N,738.595422,P,253.347265507043,738.595421715005
+,,90,Second Street Boulevard 100 Block,Street Feature,Queens Park,,,City of New Westminster,N,625.630332,P,242.044497938317,625.63033236861
+,,91,Second Street Boulevard 200 Block,Street Feature,Queens Park,,,City of New Westminster,N,1053.543367,P,397.204527143896,1053.54336654879
+,,92,Second Street Boulevard 300 Block,Street Feature,Queens Park,,,City of New Westminster,N,1060.005982,P,400.493704711777,1060.00598228703
+,,93,Second Street Boulevard 400 Block,Street Feature,Queens Park,,,City of New Westminster,N,893.130223,P,358.712959290785,893.130222807349
+,,94,Second Street Boulevard 500 Block,Street Feature,Queens Park,,,City of New Westminster,N,866.537661,P,333.670792403605,866.537660849069
+,,95,Second Street Boulevard 600 Block,Street Feature,Glenbrooke North,,,City of New Westminster,N,42.553616,P,27.3672870904153,42.5536161264744
+,,96,Fifth Street Boulevard 300 Block,Street Feature,Queens Park,,,City of New Westminster,N,2262.896745,P,423.886600659897,2262.89674464608
+,,97,Fifth Street Boulevard 400 Block,Street Feature,Queens Park,,,City of New Westminster,N,1862.687517,P,421.196044644808,1862.6875174546
+,,98,Fifth Street Boulevard 500 Block,Street Feature,Queens Park,,,City of New Westminster,N,1942.758488,P,400.033037382987,1942.75848790898
+,,99,McBride Tenth Ave Triangle,Street Feature,Victory Heights,,,City of New Westminster,N,465.785468,P,109.270231748252,465.785467858047
+,,100,Quayside McGuiness Triangle,Street Feature,Downtown,,,City of New Westminster,N,659.062335,P,153.292327719412,659.062334805972
+,,101,St Marys Hospital Royal Ave Bank,Street Feature,Downtown,,,City of New Westminster,N,824.757398,P,405.42902297597,824.757397681936
+,,102,Glenbrooke Dr Sixth Ave Boulevard,Street Feature,Glenbrooke South,,,City of New Westminster,N,152.498368,P,91.0447501024946,152.498368340146
+,,103,McBride Eighth Ave Boulevard,Street Feature,Glenbrooke North,,,City of New Westminster,N,145.149917,P,103.623651915642,145.149916591846
+,,283,,Street Feature,Downtown,,,City of New Westminster,N,809.385162,P,120.693202057602,809.385162491818
