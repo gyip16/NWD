@@ -31,6 +31,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.lang.reflect.Array;
+import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -39,6 +40,8 @@ import nwd.a00908773.comp3717.bcit.ca.nwd.Handlers.ChartHandler;
 import nwd.a00908773.comp3717.bcit.ca.nwd.Handlers.LineChartHandler;
 import nwd.a00908773.comp3717.bcit.ca.nwd.SetHandlers.LineSetHandler;
 import nwd.a00908773.comp3717.bcit.ca.nwd.SetHandlers.SetHandler;
+import nwd.a00908773.comp3717.bcit.ca.nwd.SetHandlers.CSVFile;
+import nwd.a00908773.comp3717.bcit.ca.nwd.SetHandlers.Csvhold;
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
 
@@ -191,6 +194,23 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     @Override
     public void onNothingSelected(AdapterView<?> parent) {
 
+    }
+    public ArrayList<Csvhold> getFile(String filename) {
+        int rawId = getResources().getIdentifier(filename, "raw", getPackageName());
+        ArrayList<Csvhold> listhold = new ArrayList<Csvhold>();
+        InputStream inputStream = getResources().openRawResource(rawId);
+        CSVFile csvFile = new CSVFile(inputStream);
+        listhold = csvFile.read();
+        return listhold;
+    }
+
+    public ArrayList<String> listRaw(){
+        ArrayList<String> getRaw = new ArrayList<String>();
+        Field[] fields=R.raw.class.getFields();
+        for(int count=0; count < fields.length; count++){
+            getRaw.add(fields[count].getName());
+        }
+        return getRaw;
     }
 
 }
