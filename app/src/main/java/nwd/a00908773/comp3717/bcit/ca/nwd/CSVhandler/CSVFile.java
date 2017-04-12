@@ -17,6 +17,7 @@ public class CSVFile {
         BufferedReader reader = new BufferedReader(new InputStreamReader(is));
         String csvLine;
         Csvhold hold;
+        int count = 0;
         boolean titleSet = false;
         while ((csvLine = reader.readLine()) != null) {
             String[] row = csvLine.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)", -1);
@@ -28,9 +29,16 @@ public class CSVFile {
                 titleSet = true;
             }else {
                 for(int j =0; j < row.length; j++) {
-                    hold = resultList.get(j);
-                    hold.addData(row[j]);
+                    if(count < 500) {
+                        hold = resultList.get(j);
+                        hold.addData(row[j]);
+                        count++;
+                    } else{
+                        return resultList;
+                    }
                 }
+
+
             }
         }
 

@@ -3,6 +3,7 @@ package nwd.a00908773.comp3717.bcit.ca.nwd;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.app.FragmentManager;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,6 +16,7 @@ import android.view.View;
 import android.widget.Adapter;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.Spinner;
@@ -51,6 +53,7 @@ public class MainActivity extends FragmentActivity {
     RadarChart rChart;
 
     ListView drawerList;
+    ImageView background;
     DrawerLayout drawerLayout;
     String selectedFile;
     ChartDialog chartDialog;
@@ -101,14 +104,21 @@ public class MainActivity extends FragmentActivity {
                 break;
             case R.id.bar:
                 changeView(bChart);
+                chartBuilder = new ChartBuilder(bChart, getFile(selectedFile), selectedFile);
+                chartBuilder.buildChart();
                 break;
             case R.id.hbar:
                 changeView(hbChart);
+                chartBuilder = new ChartBuilder(hbChart, getFile(selectedFile), selectedFile);
+                chartBuilder.buildChart();
                 break;
             case R.id.radar:
                 changeView(rChart);
                 break;
             case R.id.pie:
+                changeView(pChart);
+                chartBuilder = new ChartBuilder(pChart, getFile(selectedFile), selectedFile);
+                chartBuilder.buildChart();
                 changeView(pChart);
                 break;
             default:
@@ -123,7 +133,16 @@ public class MainActivity extends FragmentActivity {
         pChart.setVisibility(View.GONE);
         rChart.setVisibility(View.GONE);
 
+        ImageView im = (ImageView) findViewById(R.id.background);
+        im.setVisibility(View.GONE);
         v.setVisibility(View.VISIBLE);
+    }
+
+
+    public void saveChartAsPNG(String title, String path, Chart c) {
+        if(!(c.saveToPath(title, path))) {
+            Toast.makeText(getApplicationContext(), "Could not save file", Toast.LENGTH_SHORT).show();
+        }
     }
 
     public ArrayList<Csvhold> getFile(String filename) {
