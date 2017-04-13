@@ -66,6 +66,8 @@ public class MainActivity extends FragmentActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.drawer_layout);
         //getSupportActionBar().hide();
+        background = (ImageView) findViewById(R.id.background);
+        background.setVisibility(View.VISIBLE);
 
         lChart = (LineChart) findViewById(R.id.lChart);
         bChart = (BarChart) findViewById(R.id.bChart);
@@ -133,8 +135,7 @@ public class MainActivity extends FragmentActivity {
         pChart.setVisibility(View.GONE);
         rChart.setVisibility(View.GONE);
 
-        ImageView im = (ImageView) findViewById(R.id.background);
-        im.setVisibility(View.GONE);
+        background.setVisibility(View.GONE);
         v.setVisibility(View.VISIBLE);
     }
 

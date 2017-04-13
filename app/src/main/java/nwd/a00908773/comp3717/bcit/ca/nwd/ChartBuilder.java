@@ -21,6 +21,7 @@ import com.github.mikephil.charting.data.PieDataSet;
 import com.github.mikephil.charting.data.PieEntry;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -185,16 +186,17 @@ public class ChartBuilder {
         Map<String, Float> map = new HashMap<>();
 
         int rand = (int) (Math.random() * table.size());
-        for(String s : table.get(rand).getData()){
-            if(map.containsKey(s)){
+        for(String s : table.get(rand).getData()) {
+            if (map.containsKey(s)) {
                 map.put(s, map.get(s) + 1);
             } else {
                 map.put(s, 0f);
             }
         }
 
+        float max = Collections.max(map.values());
         for(String key : map.keySet()){
-            PieEntry temp = new PieEntry(map.get(key)/map.size(), key);
+            PieEntry temp = new PieEntry(map.get(key)/max, key);
             pieEntryList.add(temp);
         }
         PieDataSet set = new PieDataSet(pieEntryList, name);
